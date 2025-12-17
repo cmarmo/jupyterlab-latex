@@ -2,6 +2,26 @@
 
 <!-- <START NEW CHANGELOG ENTRY> -->
 
+## 4.4.0
+
+([Full Changelog](https://github.com/jupyterlab/jupyterlab-latex/compare/v4.3.0...5347a561c7489a4f465c862d3f150e7aab9dc49d))
+
+### Bugs fixed
+
+- Change default value for `cleanup` to False in `latex_cleanup` [#251](https://github.com/jupyterlab/jupyterlab-latex/pull/251) ([@cmarmo](https://github.com/cmarmo), [@krassowski](https://github.com/krassowski))
+- Fix type of `synctex_command` in configuration [#250](https://github.com/jupyterlab/jupyterlab-latex/pull/250) ([@cmarmo](https://github.com/cmarmo), [@krassowski](https://github.com/krassowski))
+
+### Contributors to this release
+
+The following people contributed discussions, new ideas, code and documentation contributions, and review.
+See [our definition of contributors](https://github-activity.readthedocs.io/en/latest/#how-does-this-tool-define-contributions-in-the-reports).
+
+([GitHub contributors page for this release](https://github.com/jupyterlab/jupyterlab-latex/graphs/contributors?from=2024-09-27&to=2025-12-17&type=c))
+
+@cmarmo ([activity](https://github.com/search?q=repo%3Ajupyterlab%2Fjupyterlab-latex+involves%3Acmarmo+updated%3A2024-09-27..2025-12-17&type=Issues)) | @krassowski ([activity](https://github.com/search?q=repo%3Ajupyterlab%2Fjupyterlab-latex+involves%3Akrassowski+updated%3A2024-09-27..2025-12-17&type=Issues))
+
+<!-- <END NEW CHANGELOG ENTRY> -->
+
 ## 4.3.0
 
 ([Full Changelog](https://github.com/jupyterlab/jupyterlab-latex/compare/v4.2.0...9043f3015e334c5647c5fa27d6eba34744bacaa2))
@@ -15,8 +35,6 @@
 ([GitHub contributors page for this release](https://github.com/jupyterlab/jupyterlab-latex/graphs/contributors?from=2024-09-27&to=2024-09-27&type=c))
 
 [@ktaletsk](https://github.com/search?q=repo%3Ajupyterlab%2Fjupyterlab-latex+involves%3Aktaletsk+updated%3A2024-09-27..2024-09-27&type=Issues)
-
-<!-- <END NEW CHANGELOG ENTRY> -->
 
 ## 4.2.0
 
